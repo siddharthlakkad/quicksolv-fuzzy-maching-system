@@ -6,7 +6,7 @@ from rapidfuzz import fuzz, process
 st.set_page_config(page_title="Optimized Fuzzy Matching Tool", page_icon=":mag:", layout="centered")
 
 # Add a company logo
-st.image("image/logo1.png", width=500)
+st.image("image/logo1.png", width=600)
 
 # Custom CSS for animations and styling
 st.markdown(
