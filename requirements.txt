@@ -1,0 +1,11 @@
+streamlit
+pandas
+fuzzywuzzy
+python-Levenshtein
+openpyxl
+jellyfish
+cudf==23.08
+cuml==23.08
+rapidsai
+XlsxWriter
+sklearn
