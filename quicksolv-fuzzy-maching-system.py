@@ -33,7 +33,7 @@ st.markdown(
 st.markdown(
     """
     <div style="text-align: center;">
-        <h1 style="color: #3498db;">Optimized Fuzzy Matching Tool</h1>
+        <h1 style="color: #3498db;">Fuzzy Matching Tool</h1>
     </div>
     """,
     unsafe_allow_html=True
